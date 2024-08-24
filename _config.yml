@@ -9,7 +9,7 @@ title: 成品游戏
 description: 这里是成年人的游戏乐园，主要介绍成品游戏免费入口地址，找H游戏和エロ游戏的朋友应该收藏本仓库，带你畅游男生晚上偷偷都想玩的游戏海洋！
 keywords: 成品游戏,H游戏,エロ游戏
 author: chengpin8
-footerText: 'Copyright © 2024 chengpin8'
+footerText: 'Copyright © 2024 <a href="https://chengpin8.github.io">成品游戏</a>'
 
 # 这些不要动
 permalink: /:year-:month-:day/:title.html
@@ -29,7 +29,7 @@ domainUrl: 'https://chengpin8.github.io'
 baseurl: ''
 
 # 吐个槽地址，会在chat页面中重定向到该地址
-tucaoUrl: https://baidu.com
+tucaoUrl: https://qfafa.com
 
 # 菜单
 # 必填字段 title: '文本' url: '链接'
@@ -55,7 +55,7 @@ extAdsense: false
 extMath: false
 
 # 显示访问量统计，由不蒜子提供服务
-extCount: true
+extCount: false
 
 # 友情链接
 links:
