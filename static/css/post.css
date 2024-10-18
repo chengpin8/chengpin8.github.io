@@ -25,11 +25,13 @@
 .page-post p{margin:0 0 10px 0;line-height:1.6;}
 .page-post a{color:#0267FF;}
 .page-post a:hover{text-decoration: underline;}
-.page-post ul,.page-post ol {padding-left: 0;}
-.page-post ul li,.page-post ol li {list-style-type: none;position: relative;padding-left: 1.5em; }
-.page-post ul li::before {content: "•"; font-weight: bold;position: absolute;left: 0;width: 1.5em; text-align: right;}
+.page-post ul,.page-post ol {padding-left: 0;margin-bottom:10px;}
+.page-post ul li,.page-post ol li {list-style-type: none;position: relative;}
+.page-post ul li{padding-left: 12px; }
+.page-post ul li::before {content: "•"; font-weight: bold;position: absolute;left: 0;width: 12px;}
 .page-post ol {counter-reset: list-counter;}
-.page-post ol li::before {content: counter(list-counter) ". ";counter-increment: list-counter;font-weight: bold;position: absolute;left: 0;width: 1.5em; text-align: right;}
+.page-post ol li{padding-left: 18px; }
+.page-post ol li::before {content: counter(list-counter) ". ";counter-increment: list-counter;font-weight: bold;position: absolute;left: 0;width: 18px; }
 .page-post ul li p,.page-post ol li p {margin-left: 0; }
 
 .page-post img {
